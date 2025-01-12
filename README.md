@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+ - Student at Warsaw University of Technology
 <!--
 **szymonsteccc/szymonsteccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
